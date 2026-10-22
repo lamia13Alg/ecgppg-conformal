@@ -1,0 +1,15 @@
+{
+ "vitaldb_cached": 423,
+ "vitaldb_included": 321,
+ "vitaldb_annotated": 482,
+ "vitaldb_excluded_lines": 59,
+ "vitaldb_excluded_unique": 59,
+ "vitaldb_excluded_reasons": {
+  "no": 59
+ },
+ "vilnius_days": 277,
+ "vilnius_patients": 39,
+ "vilnius_beats": 26913629,
+ "vilnius_af_beats": 5291175,
+ "vilnius_ppg_coverage_pct": 60.702345269008504
+}

@@ -5,7 +5,7 @@
   "creators": [
       {"name": "KAZI TANI, Lamia Fatiha", "affiliation": "Biomedical engineering department, Abou Bekr Belkaid University, Tlemcen, ALGERIA", "orcid": "https://orcid.org/0000-0003-1948-2081"},
 	 {"name": "HAMZA CHERIF, Souaad", "affiliation": "Biomedical engineering department, Abou Bekr Belkaid University, Tlemcen, ALGERIA", "orcid": "https://orcid.org/0000-0002-4733-197X" },
-    {"name": "KAZI TANI, Mohammed Yassine", "affiliation": "ESI-Ecole Supérieur d'Informatique, Sidi Belabbes, ALGERIA",  "orcid": "https://orcid.org/0009-0002-3490-9805" }
+    {"name": "KAZI TANI, Mohammed Yassine", "affiliation": "ESI-Ecole Supérieur en Informatique, Sidi Belabbes, ALGERIA",  "orcid": "https://orcid.org/0009-0002-3490-9805" }
   ],
   "license": "MIT",
   "keywords": ["conformal prediction", "arrhythmia detection", "ECG", "PPG", "false-alarm control", "wearable monitoring"],

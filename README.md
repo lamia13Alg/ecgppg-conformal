@@ -1,6 +1,6 @@
 # Patient-specific conformal calibration for arrhythmia monitoring
+[![DOI](https://zenodo.org/badge/1429422570.svg)](https://doi.org/10.5281/zenodo.23557384)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 Code and results for the paper
 

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ecgppg-conformal: patient-specific conformal calibration for ECG-PPG arrhythmia monitoring"
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
+repository-code: "https://github.com/USER/ecgppg-conformal"
+authors:
+  
+  - family-names: "KAZI TANI"
+    given-names: "Lamia Fatiha"
+    affiliation: "Biomedical engineering department, Abou Bekr Belkaid University, Tlemcen, ALGERIA"
+    orcid: "https://orcid.org/0000-0003-1948-2081"
+  
+  - family-names: "HAMZA CHERIF"
+    given-names: "Souaad"
+    affiliation: "Biomedical engineering department, Abou Bekr Belkaid University, Tlemcen, ALGERIA"
+    orcid: "https://orcid.org/0000-0002-4733-197X"
+
+  - family-names: "KAZI TANI"
+    given-names: "Mohammed Yassine"
+    affiliation: "ESI-Ecole Supérieur d'Informatique, Sidi Belabbes, ALGERIA"
+    orcid: "https://orcid.org/0009-0002-3490-9805"
+keywords:
+  - conformal prediction
+  - arrhythmia detection
+  - ECG
+  - PPG
+  - false-alarm control

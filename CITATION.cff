@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "ecgppg-conformal: patient-specific conformal calibration for ECG-PPG arrhythmia monitoring"
+title: "Taming false alarms in wearable arrhythmia monitoring: reviewer-driven conformal recalibration under distribution shift"
 version: 1.0.0
 date-released: 2026-10-21
 license: MIT

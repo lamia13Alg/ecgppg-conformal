@@ -4,8 +4,8 @@
 
 Code and results for the paper
 
-> *Patient-specific conformal calibration for arrhythmia monitoring: contamination, reviewer
-> dependence and distribution shift.* Submitted to *Expert Systems with Applications*.
+> *Taming false alarms in wearable arrhythmia monitoring: reviewer-driven conformal recalibration under distribution shift*
+> Submitted to *Computer Methods and Programs in Biomedicine*.
 
 The repository contains the full pipeline (feature extraction from ECG and PPG, population models,
 conformal p-values with a sliding adjudicated buffer, adaptive conformal inference baseline,
